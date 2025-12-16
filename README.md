@@ -8,7 +8,7 @@ The goal of this project is to apply core frontend concepts and publish a real, 
 
 🚀 Live Demo
 
-🔗 Website: https://mohamedibrahi.github.io/coffee-shop-website/
+🔗 Website: https://mohamediibrahi.github.io/coffee-shop-website/
 
 
 ---
@@ -94,7 +94,7 @@ Add animations for better user experience
 Mohamed Ibrahim
 Frontend Developer (Trainee)
 
-GitHub: https://github.com/mohamedlibrahi
+GitHub: https://github.com/mohamediibrahi
 
 
 
